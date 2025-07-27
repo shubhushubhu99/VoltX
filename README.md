@@ -24,18 +24,30 @@ The program will display the initial page, which includes a disclaimer and optio
 
 Once you enter the phone number, the program will start sending OTP requests to various APIs, including TVS, Sharda, and Railmadad. The program will continue to send OTP requests until you stop it using `CTRL + X`.
 
+## 👨‍💻 Developer
+
+**Author:** Shubham Yadav  
+**Role:** Creator & Maintainer of Voltx Script  
+**Version:** Initial Release (v1.0)  
+
+**Contact:**  
+- GitHub: https://github.com/shubhushubhu99  
+- Telegram: https://t.me/shubhushubhu99 
+- Email: psychoshubhamm@gmail.com
+
+**Note:**  
+This project is coded and maintained by **Shubham Yadav**.  
+You are free to use, modify, and share this script, but **please provide proper credit**.  
+Remember, stealing credit will never make you a good programmer—respect originality!  
+
 ## API
 
 The VoltX Fastest Bomber utilizes the following APIs:
 
-1. TVS API
-2. Sharda API
-3. Railmadad API
-4. Leadsquared API
-5. Amity API
-6. Healthcare API
-7. Tata Car API
-8. Wizbom API
+1. Sharda API
+2. Amity API
+3. Tata Car API
+
 
 ## Contributing
 
@@ -54,3 +66,4 @@ The VoltX Fastest Bomber is licensed under the [MIT License](LICENSE).
 ## Testing
 
 To test the VoltX Fastest Bomber, you can use the provided phone numbers or add your own. The program will send OTP requests to the various APIs and display the results.
+
